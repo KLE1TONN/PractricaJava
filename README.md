@@ -1,2 +1,1 @@
-# PractricaJava
-Exposición de habilidades.-
+# Java
